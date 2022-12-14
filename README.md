@@ -1,5 +1,5 @@
 # Final-project-Social-Graphs
-The final project for the course Social graphs and interactions (02805) offered by the Technical University of Denmark
+The final project for the course [Social graphs and interactions (02805)](https://kurser.dtu.dk/course/2022-2023/02805) offered by the [Technical University of Denmark](https://www.dtu.dk/)
 
 ### Data:
 https://drive.google.com/drive/folders/1o3zEM7T4Iv5U0tX5NTvT2NP0A7dYjZ2q?usp=sharing
