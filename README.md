@@ -9,5 +9,5 @@ https://drive.google.com/drive/folders/1o3zEM7T4Iv5U0tX5NTvT2NP0A7dYjZ2q?usp=sha
   - tracks_df: https://drive.google.com/file/d/1ss3UOywhK8qhTU6PU8AtKf96lIWvt_Yj/view?usp=sharing
 - Graphs:
   - artists_graph: https://drive.google.com/file/d/1-4O6nyLibWw5OAbhaXRH3JQzuVR4N9V4/view?usp=share_link
-  - sp_artist_graph: https://drive.google.com/file/d/1zHho2GusSKQSW0tt6PkUM5w2rL5pzxyG/view?usp=share_link
+  - sp_artists_graph: https://drive.google.com/file/d/1zHho2GusSKQSW0tt6PkUM5w2rL5pzxyG/view?usp=share_link
   - users_graph: https://drive.google.com/file/d/1Jd1qPNZ5CuyVFgw7eN5_C0kTLCdSuREU/view?usp=share_link
